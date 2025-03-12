@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HottensiahNyanjui
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning QA
+- 👀 I’m interested in Devops
+- 🌱 I’m studying at Moringa
 - 📫 Reach me via hottensiahnyanjui@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to travel
