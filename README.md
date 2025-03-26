@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HottensiahNyanjui
-- 👀 I’m interested in Devops
+- 👀 I am a Devops Engineer 
 - 🌱 I’m studying at Moringa
 - 📫 Reach me via hottensiahnyanjui@gmail.com
 - 😄 Pronouns: She/Her
