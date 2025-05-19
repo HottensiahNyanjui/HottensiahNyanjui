@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @HottensiahNyanjui
-- 👀 I am a Devops Engineer 
-- 🌱 I’m studying at Moringa
-- 📫 Reach me via hottensiahnyanjui@gmail.com
-- 😄 Pronouns: She/Her
+- Hi, I’m @HottensiahNyanjui
+- I am a Devops Engineer 
+- Reach me via nyanjui.hottensiahwanjiku@gmail.com
 - ⚡ Fun fact: I love to travel
 
 <!---
